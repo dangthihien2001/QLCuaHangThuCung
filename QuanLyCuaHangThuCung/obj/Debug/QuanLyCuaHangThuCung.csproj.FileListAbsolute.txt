@@ -1,0 +1,150 @@
+C:\Users\FPT\Desktop\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.exe.config
+C:\Users\FPT\Desktop\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.exe
+C:\Users\FPT\Desktop\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.pdb
+C:\Users\FPT\Desktop\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csprojAssemblyReference.cache
+C:\Users\FPT\Desktop\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.Form1.resources
+C:\Users\FPT\Desktop\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.Properties.Resources.resources
+C:\Users\FPT\Desktop\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.GenerateResource.cache
+C:\Users\FPT\Desktop\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.CoreCompileInputs.cache
+C:\Users\FPT\Desktop\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.exe
+C:\Users\FPT\Desktop\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.pdb
+C:\Users\FPT\Desktop\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmNhanVien.resources
+D:\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.exe.config
+D:\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.exe
+D:\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.pdb
+D:\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csprojAssemblyReference.cache
+D:\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.Form1.resources
+D:\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmNhanVien.resources
+D:\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.Properties.Resources.resources
+D:\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.GenerateResource.cache
+D:\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.CoreCompileInputs.cache
+D:\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.exe
+D:\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.pdb
+C:\Users\PC\Downloads\QuanLyCuaHangThuCung (2)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.exe.config
+C:\Users\PC\Downloads\QuanLyCuaHangThuCung (2)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.exe
+C:\Users\PC\Downloads\QuanLyCuaHangThuCung (2)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.pdb
+C:\Users\PC\Downloads\QuanLyCuaHangThuCung (2)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\QuanLyCuaHangThuCung (2)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.Form1.resources
+C:\Users\PC\Downloads\QuanLyCuaHangThuCung (2)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmNhanVien.resources
+C:\Users\PC\Downloads\QuanLyCuaHangThuCung (2)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.Properties.Resources.resources
+C:\Users\PC\Downloads\QuanLyCuaHangThuCung (2)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\QuanLyCuaHangThuCung (2)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\QuanLyCuaHangThuCung (2)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.exe
+C:\Users\PC\Downloads\QuanLyCuaHangThuCung (2)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.pdb
+C:\Users\PC\Downloads\QuanLyCuaHangThuCung (2)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmKhachHang.resources
+C:\Users\PC\Downloads\QuanLyCuaHangThuCung (2)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmNhaCungCap.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmDangNhap.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.Form1.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmDangKy.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmKhachHang.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmNhaCungCap.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmNhanVien.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.Properties.Resources.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.exe
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.pdb
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.exe.config
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.exe
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.pdb
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmHoaDB.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmChuong.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmHoaDonNhap.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmLoai.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.FrmSanPham.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmTaiKhoan.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmThongKe.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmDoiMK.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmChuong.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmDangNhap.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.Form1.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmDangKy.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmDoiMK.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmHoaDB.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmHoaDonNhap.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmKhachHang.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmLoai.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmNhaCungCap.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmNhanVien.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.FrmSanPham.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmTaiKhoan.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmThongKe.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.Properties.Resources.resources
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.exe
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.pdb
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.exe.config
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.exe
+C:\Users\PC\OneDrive\Tài liệu\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\LTTQ\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.pdb
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.AssemblyReference.cache
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmChuong.resources
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmDangNhap.resources
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.Form1.resources
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmDangKy.resources
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmDoiMK.resources
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmHoaDB.resources
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmHoaDonNhap.resources
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmKhachHang.resources
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmLoai.resources
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmNhaCungCap.resources
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmNhanVien.resources
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.FrmSanPham.resources
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmTaiKhoan.resources
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmThongKe.resources
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.Properties.Resources.resources
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.GenerateResource.cache
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.CoreCompileInputs.cache
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.exe
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.pdb
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.exe.config
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.exe
+C:\Users\maidu\Downloads\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.pdb
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.exe.config
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.exe
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.pdb
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csprojAssemblyReference.cache
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmChuong.resources
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmDangNhap.resources
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.Form1.resources
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmDangKy.resources
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmDoiMK.resources
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmHoaDB.resources
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmHoaDonNhap.resources
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmKhachHang.resources
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmLoai.resources
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmNhaCungCap.resources
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmNhanVien.resources
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.FrmSanPham.resources
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmTaiKhoan.resources
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmThongKe.resources
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.Properties.Resources.resources
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.GenerateResource.cache
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.CoreCompileInputs.cache
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.exe
+D:\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.pdb
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.exe.config
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.exe
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\bin\Debug\QuanLyCuaHangThuCung.pdb
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csprojAssemblyReference.cache
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmChuong.resources
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmDangNhap.resources
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.Form1.resources
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmDangKy.resources
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmDoiMK.resources
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmHoaDB.resources
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmHoaDonNhap.resources
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmKhachHang.resources
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmLoai.resources
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmNhaCungCap.resources
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmNhanVien.resources
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.FrmSanPham.resources
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmTaiKhoan.resources
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.frmThongKe.resources
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.Properties.Resources.resources
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.GenerateResource.cache
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.csproj.CoreCompileInputs.cache
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.exe
+D:\Laptrinhtrucquan\QuanLyCuaHangThuCung (1)\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\QuanLyCuaHangThuCung\obj\Debug\QuanLyCuaHangThuCung.pdb
